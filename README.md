@@ -1,1 +1,2 @@
-# renombradorArchivos
+# renombradorArchivosConSeparador
+./renombradorArchivos BUSCAR REEMPLAZAR SEPARADOR
